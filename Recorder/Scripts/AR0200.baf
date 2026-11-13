@@ -3,5 +3,5 @@ GlobalGT("X3ReBaldurQuest","GLOBAL",1)
 Global("X3ReMapNote","GLOBAL",0)
 THEN RESPONSE #100
 SetGlobal("X3ReMapNote","GLOBAL",1)
-AddMapNote([2702.992],~Harmon Residence~)
+AddMapNote([2702.992],~哈蒙宅邸~)
 END 
